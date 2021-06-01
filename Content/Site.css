@@ -145,11 +145,11 @@ body {
 
     #contenido #secundario {
         width: 20%;
-        border: 1px solid #d41010;
+        border: 1px solid #00ffc1;
     }
 
 #secundario h2 {
-    background: #d41010;
+    background: #19bb85;
     padding: .2em;
     color: #fff
 }
@@ -177,7 +177,7 @@ body {
     }
 
     .table tr:nth-child(even) {
-        background-color: #f2f2f2;
+        background-color: #19bb85;
     }
 
     .table tr:hover {
@@ -188,6 +188,6 @@ body {
         padding-top: 12px;
         padding-bottom: 12px;
         text-align: left;
-        background-color: #C11212;
+        background-color: #19bb85;
         color: #fafafa;
     }
